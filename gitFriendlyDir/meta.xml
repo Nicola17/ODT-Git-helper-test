@@ -1,2 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:grddl="http://www.w3.org/2003/g/data-view#" office:version="1.2" grddl:transformation="http://docs.oasis-open.org/office/1.2/xslt/odf2rdf.xsl"><office:meta><dc:date>2014-02-07T22:57:23.14</dc:date><meta:generator>LibreOffice/3.3$Win32 LibreOffice_project/330m19$Build-301</meta:generator><meta:editing-duration>PT7M31S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="2" meta:object-count="0" meta:page-count="1" meta:paragraph-count="6" meta:word-count="372" meta:character-count="2369"/></office:meta></office:document-meta>
+<?xml version="1.0" ?>
+<office:document-meta grddl:transformation="http://docs.oasis-open.org/office/1.2/xslt/odf2rdf.xsl" office:version="1.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<office:meta>
+		<dc:date>2014-02-07T22:57:23.14</dc:date>
+		<meta:generator>LibreOffice/3.3$Win32 LibreOffice_project/330m19$Build-301</meta:generator>
+		<meta:editing-duration>PT7M31S</meta:editing-duration>
+		<meta:editing-cycles>6</meta:editing-cycles>
+		<meta:document-statistic meta:character-count="2369" meta:image-count="2" meta:object-count="0" meta:page-count="1" meta:paragraph-count="6" meta:table-count="0" meta:word-count="372"/>
+	</office:meta>
+</office:document-meta>
