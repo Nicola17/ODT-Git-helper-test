@@ -74,6 +74,7 @@
 				</style:tab-stops>
 			</style:paragraph-properties>
 		</style:style>
+		<style:style style:class="extra" style:family="paragraph" style:name="Illustration" style:parent-style-name="Caption"/>
 		<style:style style:display-name="Strong Emphasis" style:family="text" style:name="Strong_20_Emphasis">
 			<style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
 		</style:style>
@@ -82,6 +83,9 @@
 		</style:style>
 		<style:style style:family="graphic" style:name="Graphics">
 			<style:graphic-properties style:horizontal-pos="center" style:horizontal-rel="paragraph" style:vertical-pos="top" style:vertical-rel="paragraph" style:wrap="none" svg:x="0cm" svg:y="0cm" text:anchor-type="paragraph"/>
+		</style:style>
+		<style:style style:family="graphic" style:name="Frame">
+			<style:graphic-properties fo:border="0.002cm solid #000000" fo:margin-bottom="0.201cm" fo:margin-left="0.201cm" fo:margin-right="0.201cm" fo:margin-top="0.201cm" fo:padding="0.15cm" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:wrap="parallel" style:wrap-contour="false" svg:x="0cm" svg:y="0cm" text:anchor-type="paragraph"/>
 		</style:style>
 		<text:outline-style style:name="Outline">
 			<text:outline-level-style style:num-format="" text:level="1">
@@ -147,14 +151,14 @@
 			<style:text-properties style:font-name="Trebuchet MS"/>
 		</style:style>
 		<style:page-layout style:name="Mpm1">
-			<style:page-layout-properties fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" fo:margin-top="2cm" fo:page-height="29.7cm" fo:page-width="21.001cm" style:footnote-max-height="0cm" style:num-format="1" style:print-orientation="portrait" style:writing-mode="lr-tb">
+			<style:page-layout-properties fo:margin-bottom="2cm" fo:margin-left="2.752cm" fo:margin-right="2.798cm" fo:margin-top="2cm" fo:page-height="29.7cm" fo:page-width="21.001cm" style:footnote-max-height="0cm" style:num-format="1" style:print-orientation="portrait" style:writing-mode="lr-tb">
 				<style:footnote-sep style:adjustment="left" style:color="#000000" style:distance-after-sep="0.101cm" style:distance-before-sep="0.101cm" style:rel-width="25%" style:width="0.018cm"/>
 			</style:page-layout-properties>
 			<style:header-style>
-				<style:header-footer-properties fo:margin-bottom="0.499cm" fo:min-height="0cm"/>
+				<style:header-footer-properties fo:margin-bottom="0.499cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:min-height="0cm"/>
 			</style:header-style>
 			<style:footer-style>
-				<style:header-footer-properties fo:margin-top="0.499cm" fo:min-height="0cm"/>
+				<style:header-footer-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.499cm" fo:min-height="0cm"/>
 			</style:footer-style>
 		</style:page-layout>
 	</office:automatic-styles>

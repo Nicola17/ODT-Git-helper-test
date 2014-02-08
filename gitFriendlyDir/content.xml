@@ -16,40 +16,56 @@
 		<style:font-face style:font-family-generic="system" style:font-pitch="variable" style:name="SimSun" svg:font-family="SimSun"/>
 	</office:font-face-decls>
 	<office:automatic-styles>
-		<style:style style:family="paragraph" style:name="P1" style:parent-style-name="Preformatted_20_Text">
-			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="justify" fo:text-indent="0cm" style:auto-text-indent="false" style:justify-single-word="false" style:line-height-at-least="0.37cm"/>
-			<style:text-properties fo:font-style="italic" fo:font-weight="bold" style:font-name="Trebuchet MS" style:font-style-asian="italic" style:font-style-complex="italic" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-		</style:style>
-		<style:style style:family="paragraph" style:name="P2" style:parent-style-name="Heading_20_1">
-			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-		</style:style>
-		<style:style style:family="paragraph" style:name="P3" style:parent-style-name="Text_20_body">
-			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-		</style:style>
-		<style:style style:family="paragraph" style:name="P4" style:parent-style-name="Preformatted_20_Text">
-			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="justify" fo:text-indent="0cm" style:auto-text-indent="false" style:justify-single-word="false" style:line-height-at-least="0.37cm"/>
-			<style:text-properties fo:font-style="italic" fo:font-weight="bold" style:font-name="Trebuchet MS" style:font-style-asian="italic" style:font-style-complex="italic" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-		</style:style>
-		<style:style style:family="paragraph" style:name="P5" style:parent-style-name="Footer">
+		<style:style style:family="paragraph" style:name="P1" style:parent-style-name="Footer">
 			<style:text-properties style:font-name="Trebuchet MS"/>
+		</style:style>
+		<style:style style:family="paragraph" style:name="P2" style:parent-style-name="Preformatted_20_Text">
+			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="justify" fo:text-indent="0cm" style:auto-text-indent="false" style:justify-single-word="false" style:line-height-at-least="0.37cm"/>
+			<style:text-properties fo:font-style="italic" fo:font-weight="bold" style:font-name="Trebuchet MS" style:font-style-asian="italic" style:font-style-complex="italic" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+		</style:style>
+		<style:style style:family="paragraph" style:name="P3" style:parent-style-name="Heading_20_1">
+			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+		</style:style>
+		<style:style style:family="paragraph" style:name="P4" style:parent-style-name="Text_20_body">
+			<style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+		</style:style>
+		<style:style style:family="paragraph" style:name="P5" style:parent-style-name="Preformatted_20_Text">
+			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="justify" fo:text-indent="0cm" style:auto-text-indent="false" style:justify-single-word="false" style:line-height-at-least="0.37cm"/>
+			<style:text-properties fo:color="#333333" fo:font-style="italic" fo:font-weight="bold" style:font-name="Trebuchet MS" style:font-style-asian="italic" style:font-style-complex="italic" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+		</style:style>
+		<style:style style:family="paragraph" style:name="P6" style:parent-style-name="Preformatted_20_Text">
+			<style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="justify" fo:text-indent="0cm" style:auto-text-indent="false" style:justify-single-word="false" style:line-height-at-least="0.37cm"/>
+			<style:text-properties fo:font-style="italic" fo:font-weight="bold" style:font-name="Trebuchet MS" style:font-style-asian="italic" style:font-style-complex="italic" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
 		</style:style>
 		<style:style style:family="text" style:name="T1">
-			<style:text-properties fo:color="#4183c4" fo:font-size="15pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="bold" fo:letter-spacing="normal" fo:text-transform="none" style:font-name="Helvetica" style:text-blinking="false" style:text-line-through-style="none" style:text-underline-style="none"/>
-		</style:style>
-		<style:style style:family="text" style:name="T2">
-			<style:text-properties fo:color="#000000" fo:font-size="8.25pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:letter-spacing="normal" fo:text-transform="none" style:font-name="Arial1"/>
-		</style:style>
-		<style:style style:family="text" style:name="T3">
-			<style:text-properties fo:color="#000000" fo:font-size="8.25pt" fo:font-variant="normal" fo:letter-spacing="normal" fo:text-transform="none"/>
-		</style:style>
-		<style:style style:family="text" style:name="T4">
 			<style:text-properties style:font-name="Trebuchet MS"/>
 		</style:style>
-		<style:style style:family="graphic" style:name="fr1" style:parent-style-name="Graphics">
-			<style:graphic-properties draw:blue="0%" draw:color-inversion="false" draw:color-mode="standard" draw:contrast="0%" draw:gamma="100%" draw:green="0%" draw:image-opacity="100%" draw:luminance="0%" draw:red="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" style:number-wrapped-paragraphs="no-limit" style:run-through="foreground" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:wrap="parallel" style:wrap-contour="false"/>
+		<style:style style:family="text" style:name="T2">
+			<style:text-properties fo:color="#4183c4" fo:font-size="15pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="bold" fo:letter-spacing="normal" fo:text-transform="none" style:font-name="Helvetica" style:text-blinking="false" style:text-line-through-style="none" style:text-underline-style="none"/>
+		</style:style>
+		<style:style style:family="text" style:name="T3">
+			<style:text-properties fo:color="#000000" fo:font-size="8.25pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:letter-spacing="normal" fo:text-transform="none" style:font-name="Arial1"/>
+		</style:style>
+		<style:style style:family="text" style:name="T4">
+			<style:text-properties fo:color="#000000" fo:font-size="8.25pt" fo:font-variant="normal" fo:letter-spacing="normal" fo:text-transform="none"/>
+		</style:style>
+		<style:style style:family="text" style:name="T5">
+			<style:text-properties fo:font-size="8.25pt" fo:font-variant="normal" fo:letter-spacing="normal" fo:text-transform="none"/>
+		</style:style>
+		<style:style style:family="text" style:name="T6">
+			<style:text-properties fo:font-size="8.25pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:letter-spacing="normal" fo:text-transform="none"/>
+		</style:style>
+		<style:style style:family="text" style:name="T7">
+			<style:text-properties fo:font-size="8.25pt" fo:font-style="normal" fo:font-variant="normal" fo:font-weight="normal" fo:letter-spacing="normal" fo:text-transform="none" style:font-name="Arial1"/>
+		</style:style>
+		<style:style style:family="graphic" style:name="fr1" style:parent-style-name="Frame">
+			<style:graphic-properties fo:border="none" fo:margin-bottom="0cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:padding="0cm" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:vertical-pos="top" style:vertical-rel="paragraph" style:wrap="none"/>
 		</style:style>
 		<style:style style:family="graphic" style:name="fr2" style:parent-style-name="Graphics">
-			<style:graphic-properties draw:blue="0%" draw:color-inversion="false" draw:color-mode="standard" draw:contrast="0%" draw:gamma="100%" draw:green="0%" draw:image-opacity="100%" draw:luminance="0%" draw:red="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" style:vertical-pos="top" style:vertical-rel="paragraph"/>
+			<style:graphic-properties draw:blue="0%" draw:color-inversion="false" draw:color-mode="standard" draw:contrast="0%" draw:gamma="100%" draw:green="0%" draw:image-opacity="100%" draw:luminance="0%" draw:red="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" style:number-wrapped-paragraphs="no-limit" style:run-through="foreground" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:wrap="parallel" style:wrap-contour="false"/>
+		</style:style>
+		<style:style style:family="graphic" style:name="fr3" style:parent-style-name="Graphics">
+			<style:graphic-properties draw:blue="0%" draw:color-inversion="false" draw:color-mode="standard" draw:contrast="0%" draw:gamma="100%" draw:green="0%" draw:image-opacity="100%" draw:luminance="0%" draw:red="0%" fo:border="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" fo:margin-bottom="0cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:padding="0cm" style:horizontal-pos="from-left" style:horizontal-rel="paragraph-content" style:mirror="none" style:run-through="foreground" style:shadow="none" style:vertical-pos="from-top" style:vertical-rel="paragraph-content" style:wrap="none"/>
 		</style:style>
 	</office:automatic-styles>
 	<office:body>
@@ -60,37 +76,44 @@
 				<text:sequence-decl text:display-outline-level="0" text:name="Text"/>
 				<text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
 			</text:sequence-decls>
-			<text:h text:outline-level="1" text:style-name="P2">
+			<text:h text:outline-level="1" text:style-name="P3">
 				<text:a xlink:href="https://github.com/Nicola17/ODT-Git-helper-test" xlink:type="simple">
 					<text:span text:style-name="Strong_20_Emphasis">
-						<text:span text:style-name="T1">ODT-Git-helper-test</text:span>
+						<text:span text:style-name="T2">ODT-Git-helper-test</text:span>
 					</text:span>
 				</text:a>
 			</text:h>
-			<text:p text:style-name="P3"/>
-			<text:p text:style-name="P3"/>
-			<text:p text:style-name="P3"/>
-			<text:p text:style-name="P1">
-				<draw:frame draw:name="immagini1" draw:style-name="fr1" draw:z-index="0" svg:height="3.251cm" svg:width="3.251cm" svg:x="0.023cm" svg:y="0.085cm" text:anchor-type="paragraph">
+			<text:p text:style-name="P4"/>
+			<text:p text:style-name="P5">
+				<draw:frame draw:name="immagini1" draw:style-name="fr2" draw:z-index="0" svg:height="3.251cm" svg:width="3.251cm" svg:x="0.049cm" svg:y="0.085cm" text:anchor-type="paragraph">
 					<draw:image xlink:actuate="onLoad" xlink:href="Pictures/10000000000000FA000000FAF19AB1BB.jpg" xlink:show="embed" xlink:type="simple"/>
 				</draw:frame>
-				<text:span text:style-name="T3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</text:span>
+				<text:span text:style-name="T5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</text:span>
 				 
 			</text:p>
-			<text:p text:style-name="P1"/>
-			<text:p text:style-name="P1">
-				<text:span text:style-name="T2">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</text:span>
+			<text:p text:style-name="P5"/>
+			<text:p text:style-name="P5">
+				<text:span text:style-name="T6">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</text:span>
 				 
 			</text:p>
-			<text:p text:style-name="P1"/>
-			<text:p text:style-name="P1">
-				<text:span text:style-name="T2">&quot;But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?&quot;</text:span>
+			<text:p text:style-name="P5"/>
+			<text:p text:style-name="P5">
+				<text:span text:style-name="T6">&quot;But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?&quot;</text:span>
 				 
 			</text:p>
-			<text:p text:style-name="P1"/>
-			<text:p text:style-name="P1">
-				<draw:frame draw:name="immagini2" draw:style-name="fr2" draw:z-index="1" svg:height="9.902cm" svg:width="13.204cm" text:anchor-type="paragraph">
-					<draw:image xlink:actuate="onLoad" xlink:href="Pictures/10000000000008E0000006A86D66B92C.jpg" xlink:show="embed" xlink:type="simple"/>
+			<text:p text:style-name="P2"/>
+			<text:p text:style-name="P2">
+				<draw:frame draw:name="Cornice1" draw:style-name="fr1" draw:z-index="1" svg:width="13.204cm" text:anchor-type="paragraph">
+					<draw:text-box fo:min-height="9.902cm">
+						<text:p text:style-name="Illustration">
+							<draw:frame draw:name="immagini2" draw:style-name="fr3" draw:z-index="2" style:rel-height="scale" style:rel-width="100%" svg:height="9.902cm" svg:width="13.204cm" svg:x="0.004cm" svg:y="0.002cm" text:anchor-type="paragraph">
+								<draw:image xlink:actuate="onLoad" xlink:href="Pictures/10000000000008E0000006A86D66B92C.jpg" xlink:show="embed" xlink:type="simple"/>
+							</draw:frame>
+							Illustrazione 
+							<text:sequence style:num-format="1" text:formula="ooow:Illustration+1" text:name="Illustration" text:ref-name="refIllustration0">1</text:sequence>
+							: Adamello - 2005
+						</text:p>
+					</draw:text-box>
 				</draw:frame>
 			</text:p>
 		</office:text>
